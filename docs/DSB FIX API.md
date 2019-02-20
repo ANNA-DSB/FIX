@@ -1,10 +1,7 @@
 
 
+# The document DSB FIX API has been migrated to https://www.anna-dsb.com/download/dsb-fix-api/.
 
-
-
-
-<span style=" font-family: Calibri; font-size: 30pt;">The document DSB FIX API has been migrated to</span> <span style=" font-family: Calibri; font-size: 28pt;">https://www.anna-dsb.com/download/dsb-fix-api/.</span>
 
 
 
